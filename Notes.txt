@@ -1,0 +1,6 @@
+Java is a statically-typed language. It means that all variables must be declared before they can be used.
+Java is case-sensitive. 
+
+
+
+Notes changed
