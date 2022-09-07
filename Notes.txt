@@ -3,4 +3,8 @@ Java is case-sensitive.
 
 
 
-Notes changed
+Notes: 
+
+- Install IntelliJ IDEA
+- Install open jdk 8 
+- Run Java in local. 
