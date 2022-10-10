@@ -3,6 +3,18 @@ Java is case-sensitive.
 
 
 
+`static` keyword in Java : (https://www.javatpoint.com/static-keyword-in-java)
+Static key word is used to imporove the memory management of a Java program. 
+ 
+static variables: Variables which are static is shared amongst all objects. In other words, static variables are stored only once and is common for all objects. 
+for ex. Name of college in a class which defines student Info of a college can be static. As it wil be same for all students.
+
+static functions: functions/methods which are static can be defined only once. A static method can be invoked without the need for creating an instance of a class.
+static block: It is executed before the main method at the time of classloading. 
+
+
+Reading from: https://www.programiz.com/java-programming/comments
+
 Notes: 
 
 - Install IntelliJ IDEA
