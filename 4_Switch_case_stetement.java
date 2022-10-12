@@ -8,6 +8,10 @@
      * case val3: {}
      * default: {}
 **/
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
 class OddEvenSystem {
     public static void main(String[] args) {
         findTypeOfNumber(12);
